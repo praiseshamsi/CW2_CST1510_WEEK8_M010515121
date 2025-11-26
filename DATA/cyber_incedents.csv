@@ -1,0 +1,4 @@
+date,incident_type,severity,status,description,reported_by
+2024-11-01,Phishing,High,Open,Employee reported suspicious email,alice
+2024-11-03,Malware,Medium,Closed,Malware detected on workstation and removed,john
+2024-11-05,Data Breach,Critical,Investigating,Possible unauthorized access to internal files,maria

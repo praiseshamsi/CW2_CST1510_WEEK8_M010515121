@@ -1,0 +1,4 @@
+ticket_id,priority,status,category,subject,description,created_date,resolved_date,assigned_to
+TCK-1001,High,Open,Network,WiFi Outage,Office WiFi down affecting all floors,2024-10-10,,tech_john
+TCK-1002,Low,Closed,Software,Update Request,User requested software update,2024-10-05,2024-10-06,tech_sara
+TCK-1003,Medium,In Progress,Hardware,Printer Failure,Printer not working in HR department,2024-10-12,,tech_mike
