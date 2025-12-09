@@ -2,3 +2,92 @@ dataset_name,category,source,last_updated,record_count,file_size_mb
 Employee Logins,Security Logs,Internal System,2024-11-15,12500,4.2
 Firewall Events,Network Monitoring,FortiGate Appliance,2024-11-10,8500,3.7
 Endpoint Alerts,EDR Alerts,CrowdStrike Falcon,2024-11-13,4200,2.9
+VPN Connections,Security Logs,Palo Alto VPN,2024-11-12,9800,3.4
+Email Security Reports,Email Filtering,Proofpoint,2024-11-11,15200,5.1
+Web Traffic Logs,Network Monitoring,Proxy Server,2024-11-08,24300,7.8
+DNS Queries,DNS Logs,Bind DNS Server,2024-11-10,35500,9.3
+User Access Requests,Identity Management,Okta,2024-11-14,5300,1.9
+HR Employee Records,HR Database,Workday,2024-10-20,1200,0.8
+Payroll Transactions,Finance,Internal Payroll System,2024-10-25,6400,2.5
+Server Health Metrics,System Monitoring,Nagios,2024-11-13,17800,6.2
+Application Error Logs,App Monitoring,Elastic APM,2024-11-12,20900,7.6
+Threat Intelligence Feeds,Security Intelligence,External Source,2024-11-14,8900,3.3
+Antivirus Scan Results,Endpoint Protection,Microsoft Defender,2024-11-05,11200,4.0
+Network Configuration Backups,Configuration Management,Git Repository,2024-11-01,340,0.6
+Access Control Lists,Security Configurations,Cisco ASA,2024-11-07,1500,1.1
+Incident Response Notes,Security Operations,Jira,2024-11-03,3800,1.4
+Helpdesk Tickets,IT Support,ServiceNow,2024-11-09,21900,8.7
+Cloud Activity Logs,Cloud Monitoring,AWS CloudTrail,2024-11-12,47000,12.0
+Database Query Logs,DB Monitoring,MySQL,2024-11-10,19500,5.9
+Authentication Failures,Security Logs,Active Directory,2024-11-13,8700,2.8
+Successful Authentications,Security Logs,Active Directory,2024-11-13,30500,10.4
+Patch Management Reports,IT Operations,ManageEngine,2024-11-06,5200,1.7
+Phishing Reports,Awareness Training,Cofense,2024-11-11,6400,2.3
+Security Training Completion,Training Records,HR Portal,2024-10-29,3100,1.2
+Assets Inventory,IT Asset Management,AssetDB,2024-11-10,7300,2.6
+Network Device Inventory,Network Management,SolarWinds,2024-11-08,1500,1.0
+API Logs,Application Monitoring,API Gateway,2024-11-12,28000,9.1
+Payment Transactions,Finance,Stripe API,2024-11-05,18500,6.8
+Customer Feedback,Customer Support,CRM System,2024-10-28,5700,2.0
+Supplier Records,Procurement,ERP System,2024-10-19,2100,0.9
+Building Access Logs,Physical Security,Badge System,2024-11-10,16500,5.4
+Email Archive,Email Storage,Exchange Server,2024-11-01,56000,15.2
+Backup Job Reports,Backup Monitoring,Veeam,2024-11-07,4300,2.1
+Website Analytics,Marketing,Google Analytics,2024-10-30,42000,11.7
+User Device Inventory,Asset Tracking,Intune,2024-11-11,9200,3.4
+System Performance Metrics,Monitoring,System Center,2024-11-12,30000,10.8
+Login Anomalies,Security Detection,SIEM Platform,2024-11-13,7800,2.9
+Malware Detection Logs,Endpoint Detection,CrowdStrike Falcon,2024-11-12,13400,4.8
+Network Latency Stats,Network Monitoring,ThousandEyes,2024-11-10,22000,7.5
+Cloud Storage Inventory,Cloud Management,AWS S3,2024-11-13,4300,1.9
+Server Patch Status,System Updates,WSUS,2024-11-06,5100,2.2
+Internal Audit Reports,Compliance,Audit Department,2024-10-18,800,1.3
+Employee Satisfaction Surveys,HR Surveys,SurveyMonkey,2024-10-16,2700,1.5
+Contractor Records,HR Database,Workday,2024-10-22,3500,1.1
+Project Management Logs,PMO,Jira,2024-11-08,11400,4.4
+File Access Logs,Security Logs,Windows Server,2024-11-13,31000,9.6
+Privileged Account Access,PAM Monitoring,CyberArk,2024-11-10,2400,1.7
+Business Continuity Plans,BCP Documentation,Internal SharePoint,2024-10-25,500,0.7
+Customer Support Chats,Support Desk,Freshdesk,2024-11-09,20800,6.3
+Email Delivery Logs,Email Server,Exchange Online,2024-11-12,39000,11.0
+WAF Events,Web Security,AWS WAF,2024-11-13,22000,7.4
+Bot Traffic Logs,Web Analytics,Cloudflare,2024-11-11,26000,8.6
+Compromised Credentials,Threat Intelligence,Dark Web Feed,2024-11-10,8900,3.5
+Suspicious IP Blacklist,Threat Intelligence,External Feed,2024-11-07,4800,2.0
+SaaS Audit Logs,Cloud Applications,Google Workspace,2024-11-05,17800,5.7
+Partner Access Logs,External Access,Vendor Portal,2024-11-12,2400,1.5
+Ticket Resolution Metrics,IT Service,ServiceNow,2024-11-10,12000,4.9
+Critical Alerts Dashboard,System Monitoring,Elastic Stack,2024-11-13,14500,5.3
+Code Repository Changes,DevOps,GitHub Enterprise,2024-11-07,18000,6.1
+CI/CD Pipeline Logs,DevOps,Jenkins,2024-11-11,19500,6.9
+Container Events,Cloud Native,Kubernetes,2024-11-13,17300,5.6
+Cloud Billing Usage,Finance,AWS Billing,2024-11-06,13000,4.7
+QA Test Results,Quality Control,TestRail,2024-11-02,9200,3.8
+Mobile Device Logs,MDM,Intune,2024-11-10,7200,2.4
+Network Bandwidth Usage,Network Analytics,SolarWinds,2024-11-11,25800,9.9
+Password Reset Logs,Identity Management,Okta,2024-11-12,8500,2.3
+Policy Violation Logs,Compliance,System Alerts,2024-11-11,3900,1.6
+Threat Hunting Notes,Security Operations,Internal SOC,2024-11-13,2700,1.2
+Application Deployment Logs,DevOps,GitLab CI,2024-11-08,15800,6.5
+Cloud API Calls,Cloud Monitoring,Azure Monitor,2024-11-12,43000,12.1
+Failed Payment Attempts,Finance,Stripe API,2024-10-30,7800,2.9
+Customer Demographics,Sales,CRM System,2024-10-20,15400,3.6
+Software License Inventory,IT Audit,License Portal,2024-11-06,3200,1.1
+IoT Device Events,IoT Monitoring,IoT Hub,2024-11-09,21000,7.2
+Backup Integrity Results,Backup Monitoring,Veeam,2024-11-12,9200,3.2
+Security Policy Acknowledgements,Compliance,HR Portal,2024-10-27,4100,1.4
+File Transfer Logs,Data Movement,SFTP Server,2024-11-11,6800,2.7
+Printer Usage Logs,Office Equipment,Printer Server,2024-10-28,2400,1.0
+Meeting Attendance Records,Office Management,Microsoft Teams,2024-11-05,7800,2.2
+Endpoint Performance Metrics,Device Monitoring,Intune,2024-11-12,9700,3.5
+Workstation Inventory,Asset Management,CMDB,2024-11-09,12500,4.1
+Server Inventory,Asset Management,CMDB,2024-11-09,3900,2.9
+Power Consumption Data,Facilities,Smart Metering System,2024-11-10,14500,5.0
+Security Awareness Quiz Results,Training,Learning Portal,2024-10-31,5200,1.3
+Video Surveillance Exports,Physical Security,CCTV System,2024-11-01,8200,4.9
+Cloud Resource Inventory,Cloud Management,AWS Config,2024-11-11,3700,2.6
+Remote Desktop Connections,Security Logs,RDP Gateway,2024-11-12,6800,2.2
+Service Outage Reports,IT Operations,System Monitor,2024-11-07,1500,1.8
+Work From Home Activity Logs,Remote Work,VPN Server,2024-11-10,11200,3.8
+Contract Renewals,Procurement,ERP System,2024-10-19,1200,0.6
+Vendor Risk Assessments,Compliance,Third-Party Portal,2024-10-29,1900,1.0
