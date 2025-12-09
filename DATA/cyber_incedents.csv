@@ -2,3 +2,100 @@ date,incident_type,severity,status,description,reported_by
 2024-11-01,Phishing,High,Open,Employee reported suspicious email,alice
 2024-11-03,Malware,Medium,Closed,Malware detected on workstation and removed,john
 2024-11-05,Data Breach,Critical,Investigating,Possible unauthorized access to internal files,maria
+2024-11-06,Ransomware,Critical,Investigating,Encrypted files discovered on shared drive,steve
+2024-11-07,Phishing,Low,Closed,User clicked link but no compromise detected,linda
+2024-11-08,DDOS,High,Mitigating,Unusual traffic spike detected on web server,tom
+2024-11-09,Bruteforce Attack,Medium,Open,Multiple failed login attempts from unknown IP,emma
+2024-11-10,Insider Threat,High,Investigating,Employee attempted unauthorized data download,kevin
+2024-11-11,Malware,Medium,Closed,Adware found on workstation and cleaned,sara
+2024-11-12,Vulnerability Exploit,High,Mitigating,Public exploit detected targeting outdated software,bill
+2024-11-13,Phishing,Medium,Open,Fake invoice email sent to finance team,alice
+2024-11-14,Password Spray,Medium,Open,Multiple corporate accounts targeted,bruce
+2024-11-15,Data Leak,High,Investigating,Confidential document accidentally shared externally,sophia
+2024-11-16,Phishing,Medium,Closed,Credential harvesting attempt blocked,oliver
+2024-11-17,SQL Injection Attempt,High,Mitigating,Suspicious queries found in server logs,henry
+2024-11-18,Malware,Critical,Investigating,Trojan detected on executive laptop,rachel
+2024-11-19,Unauthorized Access,High,Open,Login from unusual geographic location,nina
+2024-11-20,Phishing,Low,Closed,Spam email reported by user,liam
+2024-11-21,Privilege Escalation Attempt,High,Investigating,Unauthorized attempt to gain admin rights,eric
+2024-11-22,DDOS,Medium,Closed,Traffic normalized after mitigation,sam
+2024-11-23,Malware,High,Open,Rootkit suspected on internal server,ben
+2024-11-24,Firewall Breach Attempt,Medium,Mitigating,Blocked connection from blacklisted IP,mark
+2024-11-25,Ransomware,Critical,Open,Workstation showing ransom note popup,jane
+2024-11-26,Phishing,Medium,Closed,Staff received fake HR notification email,alice
+2024-11-27,Bruteforce Attack,High,Open,Repeated login attempts detected overnight,joel
+2024-11-28,Data Breach,Critical,Investigating,Sensitive client data may be exposed,maria
+2024-11-29,Phishing,Medium,Open,User unknowingly shared credentials,claire
+2024-11-30,Spyware,High,Closed,Spyware removed from device,tina
+2024-12-01,Unauthorized Access,Medium,Investigating,Strange admin logs noted on database,adam
+2024-12-02,Malware,Medium,Closed,Workstation cleanup completed,john
+2024-12-03,Phishing,Low,Closed,Mass spam campaign detected,emma
+2024-12-04,Vulnerability Exploit,High,Mitigating,Exploit attempt on VPN appliance,david
+2024-12-05,Privilege Misuse,Medium,Open,User accessed restricted directory,chris
+2024-12-06,DDOS,High,Mitigating,Targeted attack on public API server,tom
+2024-12-07,Phishing,Medium,Open,Fake password reset notice circulated,alice
+2024-12-08,Scam Attempt,Low,Closed,User received fake support call,rachel
+2024-12-09,Malware,High,Investigating,Unknown binary running in background,nina
+2024-12-10,Data Leak,High,Open,Confidential email sent to wrong recipient,ben
+2024-12-11,Insider Threat,Medium,Investigating,Employee accessed HR files without permission,kevin
+2024-12-12,Phishing,High,Open,CEO impersonation email sent to accounting,sophia
+2024-12-13,Ransomware,Critical,Open,Files becoming unreadable across multiple PCs,jane
+2024-12-14,Bruteforce Attack,Low,Closed,Automated attack blocked by firewall,sam
+2024-12-15,Phishing,Low,Closed,Suspicious QR code email reported,tina
+2024-12-16,Virus,Medium,Investigating,Legacy system infected,oliver
+2024-12-17,Phishing,Medium,Open,Fake Microsoft login alert reported,claire
+2024-12-18,Malware,High,Closed,Worm removed from internal network,sara
+2024-12-19,Data Breach,Critical,Investigating,Unauthorized S3 bucket access detected,maria
+2024-12-20,Spyware,Medium,Open,Browser extension collecting data found,linda
+2024-12-21,DDOS,High,Mitigating,Attack from multiple global IPs detected,mark
+2024-12-22,Phishing,Medium,Closed,User training initiated after incident,alice
+2024-12-23,Malware,High,Open,Encrypted traffic from infected endpoint,john
+2024-12-24,Unauthorized Access,High,Investigating,Compromised account used for internal access,ben
+2024-12-25,Virus,Low,Closed,Legacy malware detected and removed,jane
+2024-12-26,Phishing,Medium,Open,Fake delivery notification email circulated,emma
+2024-12-27,DDOS,High,Open,Ongoing large-scale attack on company website,tom
+2024-12-28,Insider Threat,High,Investigating,Employee copying sensitive data to USB,kevin
+2024-12-29,Malware,Medium,Closed,Keylogger detected and removed,sara
+2024-12-30,Ransomware,Critical,Mitigating,Network segmentation initiated,steve
+2024-12-31,Phishing,Medium,Closed,User avoided clicking suspicious link,liam
+2025-01-01,Data Breach,Critical,Open,Third-party vendor reported possible data exposure,maria
+2025-01-02,Unauthorized Access,High,Investigating,Account used from foreign country,henry
+2025-01-03,Phishing,Medium,Open,Student account targeted with fake scholarship email,linda
+2025-01-04,Vulnerability Exploit,High,Closed,Patched outdated application,bill
+2025-01-05,Spyware,Medium,Closed,Unauthorized tracking script removed,emma
+2025-01-06,Malware,High,Open,Device repeatedly crashes due to infection,oliver
+2025-01-07,Phishing,Medium,Closed,Suspicious link disabled by security filters,alice
+2025-01-08,Ransomware,Critical,Investigating,Encrypted backups discovered,tina
+2025-01-09,Data Leak,High,Open,Internal document posted on public website,claire
+2025-01-10,Phishing,Medium,Closed,User reported spear-phishing attempt,ben
+2025-01-11,Unauthorized Access,High,Open,Multiple failed admin logins detected,mark
+2025-01-12,DDOS,Medium,Mitigating,Traffic rerouted to mitigation service,tom
+2025-01-13,Malware,High,Open,Executable spreading across shared folders,john
+2025-01-14,Bruteforce Attack,Low,Closed,Scripted attack blocked automatically,sophia
+2025-01-15,Phishing,Medium,Investigating,Employee responded to fake HR message,linda
+2025-01-16,Data Breach,Critical,Mitigating,Sensitive data found in compromised email account,maria
+2025-01-17,Malware,Medium,Closed,Infected USB device cleaned,henry
+2025-01-18,Phishing,Low,Closed,Marketing team received spam campaign,emma
+2025-01-19,Insider Threat,High,Investigating,Employee modifying system logs,chris
+2025-01-20,Unauthorized Access,Medium,Open,VPN accessed outside normal hours,adam
+2025-01-21,Ransomware,Critical,Open,Ransom note found on server storage,steve
+2025-01-22,Virus,Low,Closed,Old malware quarantined,liam
+2025-01-23,Phishing,Medium,Open,User accidentally shared MFA code,linda
+2025-01-24,DDOS,High,Mitigating,Network latency caused by attack,jane
+2025-01-25,Malware,High,Closed,Backdoor removed from endpoint,ben
+2025-01-26,Data Leak,Medium,Investigating,Confidential file shared with contractor,sophia
+2025-01-27,Phishing,Medium,Open,Fake HR payroll email detected,alice
+2025-01-28,Bruteforce Attack,Medium,Open,Password guessing attack ongoing,mark
+2025-01-29,Spyware,Low,Closed,Browser hijacker uninstalled,tina
+2025-01-30,Phishing,Medium,Closed,User flagged fake login prompt,rachel
+2025-01-31,Ransomware,Critical,Investigating,Critical system encrypted,john
+2025-02-01,Data Breach,Critical,Open,Compromised admin account detected,maria
+2025-02-02,Malware,Medium,Closed,Malicious script removed from server,kevin
+2025-02-03,Unauthorized Access,High,Mitigating,Attempt to bypass MFA detected,emma
+2025-02-04,Phishing,Medium,Open,Fake banking alert sent to staff,alice
+2025-02-05,DDOS,Medium,Closed,Traffic back to normal,tom
+2025-02-06,Malware,High,Open,Unusual outbound connections observed,henry
+2025-02-07,Privilege Escalation Attempt,High,Investigating,Unauthorized sudo attempt logged,chris
+2025-02-08,Phishing,Medium,Closed,Link blocked by email filter,linda
+2025-02-09,Ransomware,Critical,Open,New strain detected on network,steve
+2025-02-10,Data Leak,High,Investigating,Partner dataset exposed by accident,jane
