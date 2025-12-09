@@ -2,3 +2,100 @@ ticket_id,priority,status,category,subject,description,created_date,resolved_dat
 TCK-1001,High,Open,Network,WiFi Outage,Office WiFi down affecting all floors,2024-10-10,,tech_john
 TCK-1002,Low,Closed,Software,Update Request,User requested software update,2024-10-05,2024-10-06,tech_sara
 TCK-1003,Medium,In Progress,Hardware,Printer Failure,Printer not working in HR department,2024-10-12,,tech_mike
+TCK-1004,Critical,Escalated,Security,Account Compromise,User account suspected to be hacked,2024-10-13,,tech_kevin
+TCK-1005,Medium,Open,Network,Slow Internet,Users reporting slow internet speeds,2024-10-09,,tech_john
+TCK-1006,Low,Closed,Software,Password Reset,User forgot their password,2024-10-06,2024-10-06,tech_emma
+TCK-1007,High,In Progress,Server,Database Down,Main database server is offline,2024-10-14,,tech_maria
+TCK-1008,Medium,Closed,Hardware,Mouse Not Working,Mouse malfunction reported,2024-10-03,2024-10-04,tech_mike
+TCK-1009,Low,Closed,Other,Stationery Request,User requested new office supplies,2024-10-02,2024-10-02,tech_sara
+TCK-1010,High,Open,Email,Email Delivery Failure,Emails not sending to external domains,2024-10-11,,tech_linda
+TCK-1011,Medium,Closed,Network,LAN Port Failure,LAN port not working on 2nd floor,2024-10-01,2024-10-02,tech_john
+TCK-1012,Low,Closed,Software,Install Application,New app installation requested,2024-10-07,2024-10-08,tech_emma
+TCK-1013,Medium,In Progress,Security,Phishing Email,Suspicious email reported by staff,2024-10-12,,tech_kevin
+TCK-1014,High,Open,Hardware,Monitor Flickering,Monitor flickers when turned on,2024-10-09,,tech_mike
+TCK-1015,Medium,Closed,Software,License Renewal,Software license renewal assistance,2024-10-05,2024-10-06,tech_sara
+TCK-1016,Low,Closed,Network,Cable Replacement,Ethernet cable damaged and replaced,2024-10-03,2024-10-03,tech_john
+TCK-1017,High,In Progress,Server,Backup Failure,Nightly backup job failed,2024-10-14,,tech_maria
+TCK-1018,Medium,Closed,Hardware,Keyboard Issue,Keys not responding,2024-10-04,2024-10-05,tech_mike
+TCK-1019,Low,Closed,Software,Access Request,User needs access to tool,2024-10-06,2024-10-06,tech_linda
+TCK-1020,High,Open,Security,Unauthorized Login Attempt,Multiple failed login attempts detected,2024-10-11,,tech_kevin
+TCK-1021,Medium,Closed,Network,Switch Overheating,Network switch overheating warning,2024-10-02,2024-10-03,tech_john
+TCK-1022,Critical,Escalated,Server,Server Crash,Main application server crashed overnight,2024-10-14,,tech_maria
+TCK-1023,Medium,Open,Hardware,Laptop Battery Issue,Battery drains too fast,2024-10-10,,tech_emma
+TCK-1024,Low,Closed,Other,Desk Phone Request,New phone requested for employee,2024-10-03,2024-10-04,tech_sara
+TCK-1025,High,Open,Email,Spam Attack,Users receiving large amounts of spam,2024-10-09,,tech_linda
+TCK-1026,Medium,Closed,Software,Bug Report,System crashing intermittently,2024-10-05,2024-10-07,tech_kevin
+TCK-1027,High,In Progress,Security,Malware Infection,Malware detected on workstation,2024-10-11,,tech_kevin
+TCK-1028,Low,Closed,Hardware,Headphones Not Working,Headphones audio cutting out,2024-10-04,2024-10-05,tech_mike
+TCK-1029,Medium,Closed,Network,VPN Issues,User unable to connect to VPN,2024-10-08,2024-10-09,tech_john
+TCK-1030,Low,Closed,Software,Printing Software Error,Print driver reinstall required,2024-10-05,2024-10-05,tech_emma
+TCK-1031,High,Open,Security,Ransomware Alert,Ransomware behavior detected,2024-10-12,,tech_kevin
+TCK-1032,Medium,Closed,Hardware,Webcam Issue,Webcam not recognized,2024-10-06,2024-10-07,tech_mike
+TCK-1033,Low,Closed,Network,Guest WiFi Access,Visitor requested WiFi access,2024-10-02,2024-10-02,tech_sara
+TCK-1034,Medium,In Progress,Server,High CPU Usage,Server CPU usage persistently high,2024-10-11,,tech_maria
+TCK-1035,High,Open,Email,Mailbox Full,User mailbox reached capacity,2024-10-10,,tech_linda
+TCK-1036,Medium,Closed,Hardware,Projector Issue,Projector not displaying properly,2024-10-04,2024-10-05,tech_mike
+TCK-1037,High,Closed,Software,Application Crash,App crashes during data export,2024-10-06,2024-10-08,tech_emma
+TCK-1038,Low,Closed,Network,Router Reset,Router reboot required,2024-10-03,2024-10-03,tech_john
+TCK-1039,Medium,Closed,Security,Firewall Alert,Suspicious outbound traffic blocked,2024-10-09,2024-10-10,tech_kevin
+TCK-1040,Low,Closed,Other,Monitor Cleaning Request,User needed assistance cleaning monitor,2024-10-02,2024-10-02,tech_sara
+TCK-1041,High,Open,Hardware,Laptop Won’t Boot,Laptop stuck on boot screen,2024-10-11,,tech_mike
+TCK-1042,Medium,Closed,Software,Connectivity Bug,App fails to sync with server,2024-10-06,2024-10-08,tech_emma
+TCK-1043,Low,Closed,Network,IP Conflict,Two devices sharing same IP address,2024-10-04,2024-10-05,tech_john
+TCK-1044,Medium,Open,Server,DNS Failure,DNS not resolving internal domains,2024-10-12,,tech_maria
+TCK-1045,High,In Progress,Email,Email Sync Failure,Emails not syncing on Outlook,2024-10-11,,tech_linda
+TCK-1046,Low,Closed,Hardware,USB Port Failure,USB port bent and non-functional,2024-10-03,2024-10-04,tech_mike
+TCK-1047,Medium,Closed,Security,Antivirus Update Required,Endpoints missing updates,2024-10-05,2024-10-06,tech_kevin
+TCK-1048,Low,Closed,Other,Office Chair Adjustment,User requested help adjusting chair,2024-10-02,2024-10-02,tech_sara
+TCK-1049,Medium,In Progress,Software,File Sync Issue,Files not syncing to cloud storage,2024-10-11,,tech_emma
+TCK-1050,High,Open,Network,Firewall Misconfiguration,Rule blocking business traffic,2024-10-13,,tech_john
+TCK-1051,Medium,Closed,Hardware,Broken Screen,Laptop screen cracked,2024-10-08,2024-10-09,tech_mike
+TCK-1052,Low,Closed,Software,Browser Not Responding,Browser freezes often,2024-10-03,2024-10-04,tech_emma
+TCK-1053,High,Open,Security,Unauthorized USB Device,Unknown USB drive plugged into workstation,2024-10-10,,tech_kevin
+TCK-1054,Medium,Closed,Server,Low Disk Space,Disk space nearing capacity,2024-10-08,2024-10-09,tech_maria
+TCK-1055,Low,Closed,Network,DHCP Error,IP assignments failing,2024-10-06,2024-10-07,tech_john
+TCK-1056,Medium,Closed,Hardware,Docking Station Issue,Docking station not charging laptop,2024-10-04,2024-10-05,tech_mike
+TCK-1057,High,Open,Email,External Emails Blocked,Outgoing mail blocked by filter,2024-10-09,,tech_linda
+TCK-1058,Low,Closed,Software,Teams Login Issue,Teams app won’t login,2024-10-05,2024-10-06,tech_emma
+TCK-1059,Medium,Closed,Security,SIEM Alert Review,Suspicious security events flagged,2024-10-07,2024-10-08,tech_kevin
+TCK-1060,High,In Progress,Network,Switch Down,Core switch offline,2024-10-14,,tech_john
+TCK-1061,Low,Closed,Hardware,Loose HDMI Cable,HDMI cable replaced,2024-10-02,2024-10-02,tech_mike
+TCK-1062,Medium,Closed,Software,Corrupt File,User unable to open corrupted document,2024-10-08,2024-10-09,tech_emma
+TCK-1063,High,Open,Security,Suspicious Login,Login from unknown device,2024-10-11,,tech_kevin
+TCK-1064,Medium,Closed,Server,Service Restart Required,Background service not responding,2024-10-06,2024-10-06,tech_maria
+TCK-1065,Low,Closed,Network,Proxy Issue,Proxy not allowing access to website,2024-10-04,2024-10-05,tech_john
+TCK-1066,Medium,Closed,Hardware,Broken Charger,Charger cable snapped,2024-10-03,2024-10-03,tech_mike
+TCK-1067,High,In Progress,Email,Phishing Campaign,Company-wide phishing attack,2024-10-12,,tech_linda
+TCK-1068,Low,Closed,Software,App Permissions,User requests extra app permissions,2024-10-05,2024-10-06,tech_emma
+TCK-1069,Medium,Closed,Security,Blocked IP Review,Blocked IP list requires review,2024-10-07,2024-10-08,tech_kevin
+TCK-1070,High,Open,Server,Application Timeout,Main application timing out,2024-10-11,,tech_maria
+TCK-1071,Low,Closed,Hardware,Trackpad Not Working,Trackpad functions erratically,2024-10-04,2024-10-05,tech_mike
+TCK-1072,Medium,Closed,Software,App Installation Error,Installation failed due to permissions,2024-10-07,2024-10-08,tech_emma
+TCK-1073,High,Open,Network,No Internet,Entire floor unable to access internet,2024-10-10,,tech_john
+TCK-1074,Medium,Closed,Security,Certificate Expiration,SSL certificate expiring soon,2024-10-06,2024-10-07,tech_kevin
+TCK-1075,Low,Closed,Software,Login Loop,User stuck in login loop on app,2024-10-03,2024-10-04,tech_emma
+TCK-1076,High,In Progress,Email,Blacklisted Domain,Organization domain blacklisted,2024-10-13,,tech_linda
+TCK-1077,Medium,Closed,Server,Server Overheating,Temperature rising above safe levels,2024-10-08,2024-10-09,tech_maria
+TCK-1078,Low,Closed,Hardware,Loose Power Cable,Power cable reconnected,2024-10-02,2024-10-02,tech_mike
+TCK-1079,Medium,Closed,Network,Packet Loss,High packet loss detected,2024-10-06,2024-10-07,tech_john
+TCK-1080,High,Open,Security,Zero-Day Alert,Vendor warned of zero-day vulnerability,2024-10-11,,tech_kevin
+TCK-1081,Low,Closed,Software,UI Bug,Button not responsive in app,2024-10-04,2024-10-05,tech_emma
+TCK-1082,Medium,In Progress,Server,Memory Leak,Suspected memory leak in service,2024-10-12,,tech_maria
+TCK-1083,Low,Closed,Hardware,Speakers Not Working,Audio not coming from speakers,2024-10-03,2024-10-04,tech_mike
+TCK-1084,Medium,Closed,Email,Email Formatting Issue,HTML emails not rendering correctly,2024-10-05,2024-10-06,tech_linda
+TCK-1085,High,Open,Security,Firewall Bypass Attempt,Attempt to bypass firewall rules,2024-10-10,,tech_kevin
+TCK-1086,Medium,Closed,Software,Data Export Error,Export function freezes,2024-10-07,2024-10-08,tech_emma
+TCK-1087,Low,Closed,Hardware,Keyboard Replacement,Keys missing from keyboard,2024-10-02,2024-10-03,tech_mike
+TCK-1088,High,In Progress,Network,ISP Outage,Internet service provider outage reported,2024-10-13,,tech_john
+TCK-1089,Medium,Closed,Security,Access Review,Quarterly access review task,2024-10-06,2024-10-07,tech_kevin
+TCK-1090,Low,Closed,Software,Time Sync Issue,System clock not syncing,2024-10-04,2024-10-05,tech_emma
+TCK-1091,High,Open,Server,Service Down,Authentication service offline,2024-10-11,,tech_maria
+TCK-1092,Medium,Closed,Hardware,Broken USB Cable,USB cable damaged,2024-10-03,2024-10-04,tech_mike
+TCK-1093,Low,Closed,Network,SSID Not Visible,Guest SSID hidden accidentally,2024-10-02,2024-10-03,tech_john
+TCK-1094,High,Open,Email,Email Spoofing,Fake internal email detected,2024-10-10,,tech_linda
+TCK-1095,Medium,Closed,Software,Update Failure,App update failed due to error code,2024-10-07,2024-10-08,tech_emma
+TCK-1096,Low,Closed,Hardware,Screen Brightness Issue,Screen too dim even at max brightness,2024-10-03,2024-10-04,tech_mike
+TCK-1097,High,Open,Security,Endpoint Not Compliant,Device failing compliance checks,2024-10-11,,tech_kevin
+TCK-1098,Medium,Closed,Server,Storage Migration,Migration of data completed,2024-10-08,2024-10-09,tech_maria
+TCK-1099,Low,Closed,Software,Shortcut Missing,Desktop shortcut disappeared,2024-10-02,2024-10-02,tech_emma
+TCK-1100,High,In Progress,Network,Network Loop,Loop detected in switch configuration,2024-10-13,,tech_john
